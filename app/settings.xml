@@ -1,0 +1,7 @@
+<server>
+  <id>dev-azure-com-703250765-javaapp</id>
+  <username>JavaApp</username>
+  <!-- Treat this auth token like a password. Do not share it with anyone, including Microsoft support. -->
+  <!-- The generated token expires on or before 12/23/2019 -->
+  <password>ralmucdv4x7x73hq44cagxhx5mxgqx5n6rolh434l5rzn7vie4sq</password>
+</server>
