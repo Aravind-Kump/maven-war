@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>DevOps</groupId>
-  <artifactId>DevOpsProj</artifactId>
+  <artifactId>DevOpsProj{version}</artifactId>
   <version>version</version>
   <packaging>war</packaging>
 
