@@ -6,7 +6,7 @@
 
   <groupId>DevOps</groupId>
   <artifactId>DevOpsProj</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>version</version>
   <packaging>war</packaging>
 
   <name>DevOpsProj Maven Webapp</name>
