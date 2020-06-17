@@ -5,8 +5,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>DevOps</groupId>
-  <artifactId>DevOpsProj{version}</artifactId>
-  <version>version</version>
+  <artifactId>DevOpsProj</artifactId>
+  <version>{version}</version>
   <packaging>war</packaging>
 
   <name>DevOpsProj Maven Webapp</name>
