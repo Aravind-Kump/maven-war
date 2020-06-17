@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>DevOps</groupId>
-  <artifactId>${version}</artifactId>
+  <artifactId>DevOpsProj</artifactId>
   <version>${version}</version>
   <packaging>war</packaging>
   <name>DevOpsProj Maven Webapp</name>
@@ -28,7 +28,7 @@
   </dependencies>
 
   <build>
-    <finalName>DevOpsProj</finalName>
+    <finalName>DevOpsProj-${version}</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
